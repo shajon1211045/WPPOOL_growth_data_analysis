@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## 🏃‍♂️ How to Use
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/shajon1211045/WPPOOL_growth_data_analysis>
    cd project-folder
    ```
 2. **Run the Jupyter Notebook**:
