@@ -19,7 +19,7 @@ In this project I analyzed a dataset of `20,000` rows and `14` columns of WPPOOL
 ## 🚀 Features
 - **Data Cleaning**: Handling missing values, duplicates, and incorrect data types.
 - **Descriptive Statistics**: Summary statistics and data distribution insights.
-- **Data Visualization**: Charts, graphs, and heatmaps to identify trends.
+- **Data Visualization**: Charts, graphs to identify trends.
 - **Interactive Dashboard**: Built using **Plotly and Dash**, deployed on **Render**.
 - **Feature Engineering**: Creating meaningful variables for further analysis.
 
