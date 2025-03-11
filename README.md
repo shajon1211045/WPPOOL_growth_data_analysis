@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-This project focuses on **Exploratory Data Analysis (EDA)** to uncover patterns, detect anomalies, test hypotheses, and summarize key insights from the dataset. The analysis includes data cleaning, visualization, and statistical summarization to facilitate better decision-making. Additionally, a **dashboard application** was developed using **Plotly and Dash** and deployed on **Render**.
+In this project I analyzed a dataset of `20,000` rows and `14` columns of WPPOOL and tried to answer some questions of them. This project focuses on **Exploratory Data Analysis (EDA)** to uncover patterns, detect anomalies, test hypotheses, and summarize key insights from the dataset. The analysis includes data cleaning, visualization, and statistical summarization to facilitate better decision-making. Additionally, a **dashboard application** was developed using **Plotly and Dash** and deployed on **Render**.
 
 ## 📂 Project Structure
 ```
@@ -50,10 +50,6 @@ pip install -r requirements.txt
 ![Sample Chart](assets/dashboard_03.png)
 ![Sample Chart](assets/dashboard_04.png)
 
-## 🏆 Results & Insights
-- Key observations from the dataset.
-- Interesting correlations and patterns.
-- Summary of actionable insights.
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
