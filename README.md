@@ -45,7 +45,10 @@ pip install -r requirements.txt
    ```
 
 ## 📊 Sample Visualizations
-![Sample Chart](assets/sample_chart.png)
+![Sample Chart](assets/dashboard_01.png)
+![Sample Chart](assets/dashboard_02.png)
+![Sample Chart](assets/dashboard_03.png)
+![Sample Chart](assets/dashboard_04.png)
 
 ## 🏆 Results & Insights
 - Key observations from the dataset.
