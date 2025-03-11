@@ -1,7 +1,7 @@
-# Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA) and An Interective Dashboard Application
 
 ## 📌 Project Overview
-In this project, I analyzed a dataset of `20,000` rows and `14` columns of WPPOOL and tried to answer some questions about them. This project focuses on **Exploratory Data Analysis (EDA)** to uncover patterns, detect anomalies, test hypotheses, and summarize key insights from the dataset. The analysis includes data cleaning, visualization, and statistical summarization to facilitate better decision-making. Additionally, a **dashboard application** was developed using **Plotly and Dash** and deployed on **Render**.
+In this project, I analyzed a dataset of `20,000` rows and `14` columns of WPPOOL and tried to answer some questions about them. This project focuses on **Exploratory Data Analysis (EDA)** to uncover patterns, detect anomalies, test hypotheses, and summarize key insights from the dataset. The analysis includes data cleaning, visualization, and statistical summarization to facilitate better decision-making. Additionally, a **dashboard application** was developed using **Plotly and Dash** and deployed on **Render**. Here is the link to the dashboard: [WPPOOL Growth Data Analysis Dashboard](https://wppool-growth-data-analysis.onrender.com/).
 
 ## 📂 Project Structure
 ```
