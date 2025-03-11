@@ -63,7 +63,7 @@ Feel free to fork this repository, create a feature branch, and submit a pull re
 
 ## 📞 Contact
 For questions or suggestions, contact:
-📧 [Your Email]
-🔗 [Your LinkedIn]
+📧 [zahidulshajon@gmail.com]
+🔗 [https://www.linkedin.com/in/zahidulshajon/]
 
 
