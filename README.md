@@ -1,19 +1,19 @@
 # Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-In this project I analyzed a dataset of `20,000` rows and `14` columns of WPPOOL and tried to answer some questions of them. This project focuses on **Exploratory Data Analysis (EDA)** to uncover patterns, detect anomalies, test hypotheses, and summarize key insights from the dataset. The analysis includes data cleaning, visualization, and statistical summarization to facilitate better decision-making. Additionally, a **dashboard application** was developed using **Plotly and Dash** and deployed on **Render**.
+In this project, I analyzed a dataset of `20,000` rows and `14` columns of WPPOOL and tried to answer some questions about them. This project focuses on **Exploratory Data Analysis (EDA)** to uncover patterns, detect anomalies, test hypotheses, and summarize key insights from the dataset. The analysis includes data cleaning, visualization, and statistical summarization to facilitate better decision-making. Additionally, a **dashboard application** was developed using **Plotly and Dash** and deployed on **Render**.
 
 ## 📂 Project Structure
 ```
 📁 Project Folder
-│── 📄 EDA.ipynb       # Jupyter Notebook with code and analysis
-│── 📄 app.py          # Dashboard application using Plotly and Dash
-│── 📄 README.md       # Project documentation (this file)
-│── 📄 requirements.txt # Dependencies list
-│── 📄 License         # Project license
 │── 📁 Data/          # Raw and processed data files
 │── 📁 assets/        # Static files for dashboard
 │── 📁 dashboard/     # Auto-generated dashboard files
+│── 📄 EDA.ipynb       # Jupyter Notebook with code and analysis
+│── 📄 License         # Project license
+│── 📄 README.md       # Project documentation (this file)
+│── 📄 app.py          # Dashboard application using Plotly and Dash
+│── 📄 requirements.txt # Dependencies list
 ```
 
 ## 🚀 Features
@@ -49,7 +49,6 @@ pip install -r requirements.txt
 ![Sample Chart](assets/dashboard_02.png)
 ![Sample Chart](assets/dashboard_03.png)
 ![Sample Chart](assets/dashboard_04.png)
-
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
