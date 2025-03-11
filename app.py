@@ -6,7 +6,7 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 
 # Load and prepare data
-df = pd.read_csv('data_updated.csv', parse_dates=['install_date', 'last_active_date', 'pro_upgrade_date'])
+df = pd.read_csv('Data/data_updated.csv', parse_dates=['install_date', 'last_active_date', 'pro_upgrade_date'])
 df['month'] = df['install_date'].dt.to_period('M').astype(str)
 
 # Visualization 1: Bar Chart for Revenue from Each Country by Month
